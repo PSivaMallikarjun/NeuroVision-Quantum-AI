@@ -23,7 +23,7 @@ The fusion of neuroscience, AI, and quantum-inspired processing to predict futur
 ### **🛠 Installation**  
 Clone this repository and install dependencies:  
 ```bash
-git clone https://huggingface.co/spaces/YOUR_USERNAME/YOUR_PROJECT
+git clone https://huggingface.co/spaces/NeuroVision-Quantum-AI/YOUR_PROJECT
 cd YOUR_PROJECT
 pip install -r requirements.txt
 ```
