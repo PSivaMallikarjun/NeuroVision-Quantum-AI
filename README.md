@@ -79,5 +79,3 @@ Or deploy directly on **Hugging Face Spaces**.
 - **Author**: [Siva Mallikarjun Parvatham](https://www.linkedin.com/in/siva-70417418a/)  
 
 ---
-
-Let me know if you want any modifications! 🚀
