@@ -1,7 +1,7 @@
 # NeuroVision-Quantum-AI
 The fusion of neuroscience, AI, and quantum-inspired processing to predict future thoughts based on bio-signals &amp; sensory inputs.  
 
-##  ** Future Thought Prediction AI**  
+#  ** Future Thought Prediction AI**  
 
 **A Quantum-Inspired AI Model that predicts cognitive states using:**
 - **Breathing Patterns** 🫁  
